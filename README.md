@@ -1,11 +1,7 @@
-# AI_Startup_Prototype
-This is the code for "Watch Me Build an AI Startup" By Siraj Raval on Youtube
+# Image Classification Pulmonary Radiology
+code from Siraj Raval
 
 # Overview 
-
-This is the code for [this](https://youtu.be/NzmoPqte4V4) video on Youtube by Siraj Raval on how to build an AI Startup. It contains the transfer learning notebook and the notes from the video as a notebook as well. 
-
-
 
 ![License](http://img.shields.io/:license-mit-blue.svg)
 
